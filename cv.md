@@ -20,8 +20,13 @@ I love to learn and use new technologies, I have experience working in a team, I
 
 **Work experience**
 
-*Software engineer*
+*Software engineer:*
 Programming in STEP 7 and TIA Portal, WinCC environments. Working with industrial controllers SIMATIC S7-300, S7-400, S7-1200, operator panels SIMATIC.
+
+**Education**
+
+Sukhoi State Technical University of Gomel: 
+Faculty of Automated and Information Systems.
 
 **Courses**
 * C#
