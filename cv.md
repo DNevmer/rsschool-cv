@@ -1,7 +1,7 @@
 **Dzmitry Neumiarzhytski**
 
 **Contacts**
-* e-mail: dimireijne@mail.ru
+* e-mail: dimitrijne@mail.ru
 * telegram: @DNevm
 * phone: +37544 794-88-83
 
